@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Murli Gone</h1>
 <h3 align="center">A passionate Student from India</h3>
 
-- 🌱 I’m currently learning **ReactJS** - 💬 Ask me about **Tech** - 📫 How to
-reach me **murligone.dev@gmail.com**
+- 🌱 I’m currently learning **ReactJS**
+- 💬 Ask me about **Tech**
+- 📫 How to reach me **murligone.dev@gmail.com**
 -⚡ Fun fact **As a newbie tech learner,
 I've discovered that debugging is like being a detective in a virtual world –
 searching for clues, following leads, and solving the mystery of why the code
