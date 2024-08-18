@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Tech**
 
 - 📫 How to reach me **murligone.dev@gmail.com**
 
